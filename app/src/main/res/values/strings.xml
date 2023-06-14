@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Annuaire</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="text_with_paragraphs">
+        Notre entreprise, Novy Trade Gate, est une entreprise multi-fonctionnelle active dans les secteurs du consulting, de l\'immobilier, de la commercialisation et de l\'export. Nous sommes fiers de fournir des services de qualité supérieure à nos clients,grâce à notre équipe expérimentée et dévouée.\\
+        Notre expertise en consulting nous permet de fournir des conseils stratégiques et opérationnels pour aider nos clients à atteindre leurs objectifs d\'affaires. Nous nous engageons à comprendre les besoins uniques de chaque clientafin de leur fournir des solutions personnalisées et efficaces. Notre département immobilier se concentre sur la vente et la location de propriétés commerciales et résidentielles.
+        Nous avons une connaissance approfondie du marché immobilier local et nous travaillons sans relâche pour offrir à nos clients les meilleures options disponibles.
+        Notre expérience en commercialisation nous permet de fournir une gamme complète de services de marketing pour aider nos clients à promouvoir leurs produits et services.
+    </string>
+
+
+    <string name="desc_app">
+        My Annuaire est un application pratique et efficace pour les employés et les clients d\'une entreprise. Cette application permet de rechercher rapidement les informations de contact des différents employés et services de l\'entreprise, tels que les numéros de téléphone et les adresses e-mail.
+        Les employés peuvent utiliser cette application pour trouver rapidement les coordonnées de leurs collègues ou pour contacter des services spécifiques tels que la comptabilité ou les ressources humaines. Les clients peuvent également trouver facilement les informations de contact des personnes qu\'ils doivent contacter pour des questions ou des problèmes liés à leurs produits ou services.
+        My Annuaire est souvent mise à jour en temps réel pour garantir que les informations de contact sont toujours à jour et que les utilisateurs ont accès aux informations les plus récentes. Elle peut également être personnalisée pour inclure des fonctionnalités telles que le filtres de recherche pour aider les utilisateurs à trouver rapidement les informations dont ils ont besoin.
+
+    </string>
+
+
+    <string name="List_Departement"><u>Les départements</u></string>
+    <string name="List_Service"><u>Les services</u></string>
+    <string name="List_Personnel"><u>Les employées</u></string>
+    <string name="details"><u>Details</u></string>
+
+
+    <string name="service"><u>Service</u></string>
+    <string name="departement"><u>Département</u></string>
+    <string name="direction"><u>Direction</u></string>
+</resources>

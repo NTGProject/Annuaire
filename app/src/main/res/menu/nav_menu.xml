@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+tools:showIn="navigation_view" >
+
+        <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/annuaire"
+                android:title="Annuaire"
+                android:icon="@drawable/annuaire"
+                />
+            <item
+                android:id="@+id/recherche"
+                android:title="Recherche Avancée"
+                android:icon="@drawable/recherche"
+                />
+            <item
+                android:id="@+id/actualite"
+                android:title="Actualité"
+                android:icon="@drawable/actualite"/>
+
+            <item
+                android:id="@+id/annonce"
+                android:title="Annonce"
+                android:icon="@drawable/annonce"/>
+
+
+        </group>
+
+
+<item android:title="Information d'entreprise" >
+    <menu>
+        <group android:checkableBehavior="single">
+
+            <item
+                android:id="@+id/aboutus"
+                android:title="About US"
+                android:icon="@drawable/about"/>
+
+            <item
+                android:id="@+id/map"
+                android:title="Contact et Adresse"
+                android:icon="@drawable/map"/>
+
+
+
+        </group>
+    </menu>
+</item>
+
+
+    <item android:title="Information sur l'application">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/info"
+                    android:icon="@drawable/info"
+                    android:title="Information" />
+            </group>
+        </menu>
+    </item>
+
+
+
+
+    <item android:title="Nos Réseaux">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/facebook"
+                    android:icon="@drawable/facebook"
+                    android:title="Facebook" />
+                <item
+                    android:id="@+id/instagram"
+                    android:icon="@drawable/instagram"
+                    android:title="Instagram" />
+                <item
+                    android:id="@+id/linkedIn"
+                    android:icon="@drawable/linkedin"
+                    android:title="LinkedIn" />
+            </group>
+        </menu>
+    </item>
+
+</menu>
